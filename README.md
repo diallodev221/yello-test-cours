@@ -20,19 +20,18 @@ Pour mettre en place une copie locale de ce projet, suivez les étapes suivantes
 
 ### Prerequisites
 
-- Nodejs(v14.x ou récent)
+- Nodejs(v14.x ou récent) installé
+- Git pour cloner le projet depuis le dépôt GitHub
 
 ## Installation
 
 Clone le repository:
 
 ```bash
-  git clone https://github.com/yourusername/education-platform.git
-  cd education-platform
-
+  git clone https://github.com/diallodev221/yello-test-cours.git
 ```
 
-Naviguez vers le répertoire frontend et installez les dépendances :
+Naviguez vers le répertoire yello-test-cours et installez les dépendances :
 
 ```bash
 cd yello-test-cours
