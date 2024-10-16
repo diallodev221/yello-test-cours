@@ -5,7 +5,7 @@ Le projet consiste à développer une plateforme numérique moderne dédiée à 
 ## Fonctionnalités
 
 - `Cours interactifs` : Fournit une gamme de cours avec un contenu interactif.
--` Responsive Design`: Optimisé pour les ordinateurs de bureau et les appareils mobiles.
+- ` Responsive Design`: Optimisé pour les ordinateurs de bureau et les appareils mobiles.
 
 ## Technologies
 
