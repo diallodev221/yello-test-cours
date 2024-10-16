@@ -41,38 +41,6 @@ const CourseDetails = () => {
           </div>
         </div>
       </section>
-
-      <section className="course-curriculum">
-        <div className="container">
-          <h2>Course Curriculum</h2>
-          <ul>
-            <li>
-              <strong>Module 1:</strong> Introduction à JavaScript
-            </li>
-            <li>
-              <strong>Module 2:</strong> Types de données et variables
-            </li>
-            <li>
-              <strong>Module 3:</strong> Fonctions et portée
-            </li>
-            <li>
-              <strong>Module 4:</strong> Manipulation du DOM
-            </li>
-            <li>
-              <strong>Module 5:</strong> Fonctionnalités ES6
-            </li>
-            <li>
-              <strong>Module 6:</strong> JavaScript asynchrone
-            </li>
-            <li>
-              <strong>Module 7:</strong> JavaScript dans le navigateur
-            </li>
-            <li>
-              <strong>Module 8:</strong> Concepts avancés
-            </li>
-          </ul>
-        </div>
-      </section>
     </>
   );
 };
